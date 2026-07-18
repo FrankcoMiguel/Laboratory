@@ -1,4 +1,4 @@
-# Frankenstein
+# Franco's Laboratory Inc.
 
 # React + TypeScript + Vite
 
